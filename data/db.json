@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Neuen Homepage-Banner machen",
+      "details": "sollte schöner aussehen :)",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Blumen gießen",
+      "details": "Lorem ipsum",
+      "completed": false
+    },
+    {
+      "title": "Einkaufen",
+      "details": "Wöchentlicher Einkauf",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
